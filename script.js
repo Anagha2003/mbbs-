@@ -4,7 +4,7 @@ document.getElementById("leadForm").addEventListener("submit", function(event) {
 });
 
 
-    // Smooth scrolling for the Free Consultation button
+  
   document.getElementById("freeConsultationBtn").addEventListener("click", function () {
         document.getElementById("contact").scrollIntoView({
             behavior: "smooth"
